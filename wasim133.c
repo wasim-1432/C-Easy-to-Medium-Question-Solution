@@ -9,7 +9,7 @@ int main()
         s=s+(2*i-1);
         i++;
     }
-    printf("Sum of Even number=%d",s);
+    printf("Sum of Odd number=%d",s);
     printf("\n");
     return 0;
 }
